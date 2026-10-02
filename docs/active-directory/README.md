@@ -13,4 +13,4 @@ Laboratorio construido en Hyper-V con un Domain Controller (Windows Server, AD D
 
 ## Documento
 
-Ver [`Casos_Estudio_AD_DHCP.docx`](./Casos_Estudio_AD_DHCP.docx) para los casos de estudio detallados en formato Situación → Diagnóstico → Causa raíz → Acción → Resultado (base para respuestas STAR en entrevistas).
+Ver [`Casos_Estudio_AD_DHCP.pdf`](./Casos_Estudio_AD_DHCP.pdf) (vista previa directa) o [`.docx`](./Casos_Estudio_AD_DHCP.docx) para los casos de estudio detallados en formato Situación → Diagnóstico → Causa raíz → Acción → Resultado (base para respuestas STAR en entrevistas).
